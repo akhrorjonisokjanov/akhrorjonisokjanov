@@ -1,6 +1,5 @@
 ## I'm a Software Developer!
 - 👋 Hi, I’m @akhrorjonisokjanov
-- 👀 I’m interested in AI, FrontEnd and Back End
 - 🌱 I’m currently working on a Python, Html/Css/JavaScript
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with other content creators
